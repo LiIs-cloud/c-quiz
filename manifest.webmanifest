@@ -1,0 +1,17 @@
+{
+  "name": "C语言刷题 · 156 题",
+  "short_name": "C语言",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1115",
+  "theme_color": "#0f1115",
+  "lang": "zh-CN",
+  "description": "C 语言六章刷题：156 题 + 知识点梳理 + 实验报告 + 模考",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
